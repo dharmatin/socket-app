@@ -1,0 +1,24 @@
+{
+  "name": "socket-app",
+  "version": "1.0.0",
+  "description": "SOCKET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmatin/socket-app.git"
+  },
+  "author": "Deni Dharmatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmatin/socket-app/issues"
+  },
+  "homepage": "https://github.com/dharmatin/socket-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "socket.io": "^2.1.0"
+  }
+}
